@@ -1,0 +1,80 @@
+body {
+background-image: url("https://www.wallpapertip.com/wmimgs/39-394814_download-sonnenaufgang-landschaft-berge-wald-pinien-yosemite-national.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #00C603;
+}
+
+.demo {
+  background-color: transparent;
+  color: rgb(255, 255, 255);
+  margin-top: 250px;
+  margin-bottom: 250px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.demo1 {
+  background-color: transparent;
+  color: rgb(255, 255, 255);
+  margin-top: 250px;
+  margin-bottom: 3%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.about {
+    background-color: rgba(51, 51, 51, 0.644);
+    color: rgb(255, 255, 255);
+    height: 150px;
+    margin-bottom: 3%;
+    margin-bottom: 3%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.hobby {
+    background-color: rgba(51, 51, 51, 0.644);
+    color: rgb(255, 255, 255);
+    height: 150px;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.box {
+  background-color: rgba(51, 51, 51, 0.644);
+  color: rgb(255, 255, 255);
+  float: left;
+  width: 45%;
+  height: 450px;
+  margin-left:50px;
+  margin-top: 5%;
+  margin-bottom: 50px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+h1 { font-size: 100px }
